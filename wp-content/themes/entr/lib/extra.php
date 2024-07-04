@@ -532,7 +532,7 @@ if ( !function_exists( 'entr_generate_construct_footer' ) ) :
 	/**
 	 * Build footer
 	 */
-	add_action( 'entr_generate_footer', 'entr_generate_construct_footer', 20 );
+	// add_action( 'entr_generate_footer', 'entr_generate_construct_footer', 20 );
 
 	function entr_generate_construct_footer() {
 		?>

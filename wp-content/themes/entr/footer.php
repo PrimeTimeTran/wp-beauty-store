@@ -5,7 +5,7 @@
 
 		</div><!-- end page-wrap -->
 
-		<?php wp_footer(); ?>
+		<!-- <?php wp_footer(); ?> -->
 
 	</body>
 </html>
