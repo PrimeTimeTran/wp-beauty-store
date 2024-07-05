@@ -1,3 +1,7 @@
 .vscode
 wp-content/ai1wm-backups/localhost-20240704-095706-pgugdf.wpress
- 
+scripts/tmp/
+**/__pycache__
+**/.venv
+**/venv
+**/*.wpress
